@@ -19,7 +19,7 @@ ul{
 }
 
 nav{
-    background-color: rgb(196, 125, 224);
+    background-color: rgb(171, 20, 231);
     position:fixed;
     width:100%;
     top:0;
@@ -153,7 +153,7 @@ footer a{
     padding:0
 }
 
-@media(max-width: 768px){
+@media(max-width: 1081px){
     main > section{
         padding: 50px 20px;
     }
