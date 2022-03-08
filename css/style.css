@@ -39,7 +39,10 @@ header div{
 
 header{
     background-image: url('../images/fond1.jpg');
-    background-size: auto;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
     background-position: center;
     margin-top:58px
 }
